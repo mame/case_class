@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "case_class"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{Scala-like case classes for Ruby}
+    gem.description = %Q{This provides Scala-like case classes for Ruby.  You can enjoy pattern matching with place holders.}
     gem.email = "mame@tsg.ne.jp"
     gem.homepage = "http://github.com/mame/case_class"
     gem.authors = ["Yusuke Endoh"]
